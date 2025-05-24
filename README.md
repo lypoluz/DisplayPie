@@ -2,14 +2,14 @@
 
 A Blender add-on that adds a radial (pie) menu to quickly change the 'Display As' property of an object.
 
----
+
 
 ## Usage
 
 When an object is selected in Object Mode, press `Shift Alt D` to open the radial menu.
 Alternatively, use the quick search feature to search for the display type, or search for `DisplayPie`.
 
----
+
 
 ## Installation
 
@@ -19,7 +19,6 @@ Alternatively, use the quick search feature to search for the display type, or s
 4. Enable the Add-On.
 5. Adjust keybind if needed.
 
----
 
-## Tested in Blender
-- 4.4.3
+## Tested in...
+- Blender 4.4.3
