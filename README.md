@@ -1,4 +1,3 @@
-# Display As Pie Menu for Blender
 
 A Blender add-on that adds a radial (pie) menu to quickly change the 'Display As' property of an object.
 
